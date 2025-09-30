@@ -4,7 +4,7 @@
 
 **Semester:** Fall 2024  
 **Course:** Unity for Games  
-**Author:** *Your Name (replace if sharing publicly)*
+**Author:** *John Yun Moe*
 
 Main Menu | Gameplay | Game Over
 :--:|:--:|:--:
